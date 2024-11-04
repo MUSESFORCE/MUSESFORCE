@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MUSESFORCE
+- 👀 I’m interested in business development
+- 🌱 I’m currently learning salesforce integrations
+- 💞️ I’m looking to collaborate on salesforce projects
+- 😄 Pronouns: He, She, It
+- ⚡ Fun fact: A shrimp's heart is in its head 🦐
